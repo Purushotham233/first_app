@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T06:59:18.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="Mds6pMQg76JXCl8s1c5d" version="14.4.4" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vpdk5owFP01PHYGEkB8XNfd7UPb6dRO+xwhQmYDoTGu2l/fBMI3usxWVzrFF5OTmw/uOfcmQQ14Hx+eOEqjzyzA1ABmcDDg0gDAsk1PfinkmCPufJ4DISeBNqqAFfmNNWhqdEcCvG0YCsaoIGkT9FmSYF80MMQ52zfNNow2Z01RiDvAyke0i/4kgYg0aplm1fARkzDSU3uOblgj/znkbJfo+QwAN9knb45RMZa230YoYPsaBB8MeM8ZE3kpPtxjqnxbuC3v93iitVw3x4kY0gHOLcfEnu1tLMezTf+DHuEF0Z32xYIy/1mvVhwLD71gLoh02B0lYSIhwVIDLpCuUbyR0y+2KfJJEn5XbUuvAj5lzUtQId+0L60Mi1CqpvF3a6yquTykNuAiIFzyTZiaZMt2ypuLDUvESq/MlvVIxFTZy2LGBFbPaubj5s5WFZ/FxNdlitaYLkrq7hllXDYlLMnmF5w9lzqw9IyPKCZUyfsH5gFKULEQvVjQZaJwrfQcPtQgzcwTZjEW/ChNitZCJTqKZrq6ryQJocaimhpLdSEdBmE5dCUFWdBqGKgMMCljNMpw4JiUASdljEYZcNZUhm11pQHcHmlYzjWkYXekYQAXxWnmwF87Jr9JIjDfIB+XLVy3SIAqSay5LIWijhTAFxTjApSLW1eGLe2NhOBK7j5Wz10u9e82CrdJujyAdUi3rB7Sr8K50+FcHhB3kog2J2XMsjiVXlWPfyIb6OCH7s3pq+noEtFqtYiDTpc40EOcew3i3J5gbVEmR5BncOXBfUQEXqUqbuFyL68B48mi1wky2AoyAHsya9+eew2qZlOMDT4rtZPjTWPMmzbEd4jVGRjThjif8uoZrlwworxaaGJKrK8TZ9utq4bbE2TvllgtqxtUQYiLS552XdP/NX8EaBtluDXA/YiLO/WWsYU9ErXcnFlV165Xl1icBEUPluIkR2r2slYQ5Q7n8ySJ8prLffyKxuUSQyzOnwWVC89qgWOKBHlpvje9LLE92XIits9TcACv8/HwCs/yiuma7R8q4DTDVyVV97gdqfMBpM7GQ6o9kTqAVHcAqc54SHXOksq4iFjIEkRvz+wFc3Bj43gbzc4Amu1L05x1lf5Ax5pByuStclsb+asCai83nNYhvP27YcseFJrot5eFfAWV4MpHeaMG3Utq8D86FMwGaNAbT6qZ/TOp5uabyJDjHhhFdnHnzWxhe86Vs4U3yeiSMrJGISPgXVRGslr90SY3r/7NBB/+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-04T09:05:55.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="4VzY3_Aupe8T2r56YEue" version="14.4.4" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1577" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-10" value="AuthZ V3" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="235" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-17" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create/Update &lt;br&gt;tenant and its quota&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="smM6Izyuk5AVpzeEzgrJ-16">
+          <mxGeometry x="-0.0029" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-18" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Fetch the &lt;br&gt;appId quota assignments&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-11" value="K8s AuthZ adapter" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-15" value="K8s Meta Cluster per Region" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="375" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-21" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Distribute quota&lt;br&gt;&amp;nbsp;to sub-teams&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-19" target="smM6Izyuk5AVpzeEzgrJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-19" value="Team Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-27" value="&lt;span style=&quot;background-color: rgb(255 , 179 , 102)&quot;&gt;Create &lt;br&gt;Tenant Namespace&lt;br&gt;under the Tenant &lt;br&gt;corresponding the parent team&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="smM6Izyuk5AVpzeEzgrJ-26">
+          <mxGeometry x="-0.1027" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-23" value="AppId Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-30" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Get&amp;nbsp;&lt;br&gt;Tenant Namespace&lt;br&gt;&amp;nbsp;changes&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="440" />
+              <mxPoint x="700" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-36" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create k8s-ns &lt;br&gt;for new Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="smM6Izyuk5AVpzeEzgrJ-35">
+          <mxGeometry x="0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.933;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="450" />
+              <mxPoint x="840" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-38" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Modify quota changes &lt;br&gt;for exisiting Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="smM6Izyuk5AVpzeEzgrJ-37">
+          <mxGeometry x="0.08" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-42" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Discover &lt;br&gt;KaaS Cluster&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="smM6Izyuk5AVpzeEzgrJ-41">
+          <mxGeometry x="0.128" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-28" value="Tenant Operator" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="375" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-32" value="K8s Workload Clusters" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="580" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-33" value="K8s Workload Clusters" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="590" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-39" value="Cluster&lt;br&gt;Registry" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="375" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
