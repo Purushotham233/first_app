@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T03:44:44.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="7FhR-QQdAQWI9MqalGqR" version="14.4.4" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">5VpZc9s2EP41nGkf5CEBUcejZNlumrjJ1GmOvkEkRLImCRYEbcm/vgsSvGmNnEgiNc2DAiwX1x7f7gLW8HWwveMkcu+ZTX0N6fZWwysNofl4Ar+SsMsIE2OcERzu2RnJKAkP3gtVRF1RE8+mcY1RMOYLL6oTLRaG1BI1GuGcPdfZNsyvrxoRh7YIDxbx29Svni1cRTV0vfzwG/UcVy09M9WHNbEeHc6SUK2nIbxJ/2WfA5LPpfhjl9jsuULCNxq+5oyJrBVsr6kvRZuLLRt3+8rXYt+chuKQAXFwP3n3sksezcWX6IXevDj891GuhSfiJ0ogi0S4fwPpC1b7FrtcVq4IfGgZGl62V1cbeqJc0G2FpHZzR1lABd8BS/51qhZXloOwmfWfa3rIaG5FBbkGiFK9U0xdHh8aSgJvkcakdWRqg7WoLuPCZQ4LiX9TUpepCVA5rQ69kucDY5ES1j9UiJ0yfZIIBqSKKOnWE98q7e9yqitT9VZbNXPa2anOq+KPWcItuu+MuZMR7lCxj1FpQ0pgrzo59Ynwnur+dHzdTFuWqqGJDydYxhEJa1qb/JtIr1qWLjqymM+4hhdyv876F2TC6cCMYC+6YeKibRq/lsOh5cj/rzklgsKu/4rstKHnK695ziNoSEAVcHDAAziKiOFXzkOAgwRgCctwHUfZrH42+2228WyCTsv7QNaAtjVrIb7nhNC2QPMUTrSUDucBni3Uh8Cz7cwwaey9kHU6n7SZiHmhSNViLjVz1WlFe92i5doFKqtVasjW5fIj/UrX0Twbe7DdqOk+yf1XWNhmE4MFNw2rWPUnbG3Wm63dUmG50j3dbjsjUfTOLk0LhBGD2gMqNfsGwzoTpOW4lUEa2o9pcAa++1aCn+x+r34rh6W9c2KhPiwsNFr2+X4mASeP3cQmkUSH0wZwjOoBvAjo/QVw8xXB3NPUW679JE7lokfp75/U8Vh4YjGNzbqY8LQjz5mcU0yobT/nwreVFwvurZM0jObxsYFxzYgJ6AI7StYjQUkwSJgrsrVDcjfZ+US5B7qUAbyBfTXkK4Hw+Ng3v1Dsm7ds9zOYBVA+PocdkAdlVySbSeAvLMGqGVOaXX1isSckCODVmgnBgo6USkh7WB4ZPBvFD2qDAu7AhMnJMKHX2ucSPQjhQz1oWJUUOl0lNZ2XbR3tKaU6MtvPeQX1BwkobARk3+KR1saL7LgY0Wa0GIfyJ2Kh7YVOMUBpGbopYlxaHYaOWYeBfpQdDLcOyz2sejul6p/LAnukN1PAdqZ8VrTPF+shA7yTttJ9JfI2MGjOYrkkdOgw80NUC2+HlsHTM9XBaHaZkSy/MB6EVo0DtTowlWJ0bJWmQxeck12FQQW9dhRRCDkdmzWEHI8brxlN/gaiNvihke3gqPEI5wG4vzto/XEWj8K4M+nZMJkbhfS5yI1SzktLc3Kv/vk0B7Icc+g5Dp72i2HTH8GwqznGb8GxtNes2P5H4DZvgJu5H9xmY30f/4nArb9Hj3tmexsp0PxVo0jlXkU5MEyZyqfF3SVjXV6LHwHr9FnNaEbG0KFvbHRqph/ou9ykHM8HlZSPUW84svJiiz2lN0Rt3HhPyINWeQK6NKgYv3br8CNpEapjBRo6VKB2cCquCD5GlBN52dPU3XHvcKaoeYfT8Yynd1zinOwZD7c9LXvt/Mr4o8+IXZp7fGrhNMoxc9bxFGyeVTjtu8PehGM0hDPvXTjtR7QGLpa4Kd/I43zR0wlpjs/nXtAt/+4yg6jyb1vxzX8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-05T04:07:00.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="S9kM0K2JdUdqVnQT_ri-" version="14.4.4" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-10" value="Capacity Resource &lt;br&gt;Provider" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="235" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-17" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create/Update &lt;br&gt;tenant and with &lt;br&gt;KaaS type quota&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.0029" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-18" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Fetch the &lt;br&gt;appId quota assignments&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-11" value="K8s &lt;br&gt;AuthZ/Capacity&lt;br&gt;&amp;nbsp;adapter" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="ZaMOLOjBhRuXRS3HooJq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-15" value="Tenant Registry" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="375" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-21" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Distribute quota&lt;br&gt;&amp;nbsp;to sub-teams&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.433;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-19" target="smM6Izyuk5AVpzeEzgrJ-10" edge="1">
+          <mxGeometry x="-0.1059" y="28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-19" value="Team Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="smM6Izyuk5AVpzeEzgrJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-27" value="&lt;span style=&quot;background-color: rgb(255 , 179 , 102)&quot;&gt;Create &lt;br&gt;Tenant Namespace&lt;br&gt;under the Tenant &lt;br&gt;corresponding the parent team&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.1027" relative="1" as="geometry">
+            <mxPoint x="101" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.345;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="smM6Izyuk5AVpzeEzgrJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-4" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Allocate capacity by &lt;br&gt;- region&lt;br&gt;- type&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaMOLOjBhRuXRS3HooJq-3">
+          <mxGeometry x="0.5181" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-23" value="AppId Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-30" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Get&amp;nbsp;&lt;br&gt;Tenant Namespace&lt;br&gt;&amp;nbsp;changes&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="440" />
+              <mxPoint x="700" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-36" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create k8s-ns &lt;br&gt;for new Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-35" vertex="1" connectable="0">
+          <mxGeometry x="0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.933;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="450" />
+              <mxPoint x="840" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-38" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Modify quota changes &lt;br&gt;for exisiting Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-37" vertex="1" connectable="0">
+          <mxGeometry x="0.08" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-42" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Discover &lt;br&gt;KaaS Cluster&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-41" vertex="1" connectable="0">
+          <mxGeometry x="0.128" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-28" value="Tenant Operator" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="375" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-32" value="K8s Workload Clusters" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="580" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-33" value="K8s Workload Clusters" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="590" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-39" value="Cluster&lt;br&gt;Registry" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="375" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;glass=1;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
