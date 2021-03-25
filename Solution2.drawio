@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T04:07:00.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="S9kM0K2JdUdqVnQT_ri-" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:33:54.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_nbbEFY2lqFOtPGSIw3F" version="14.4.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-11" value="K8s &lt;br&gt;AuthZ/Capacity&lt;br&gt;&amp;nbsp;adapter" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZaMOLOjBhRuXRS3HooJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="ZaMOLOjBhRuXRS3HooJq-6">
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="ZaMOLOjBhRuXRS3HooJq-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-15" value="Tenant Registry" style="html=1;" parent="1" vertex="1">
@@ -43,10 +43,10 @@
             <mxPoint x="101" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZaMOLOjBhRuXRS3HooJq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.345;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="smM6Izyuk5AVpzeEzgrJ-10">
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.345;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="smM6Izyuk5AVpzeEzgrJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZaMOLOjBhRuXRS3HooJq-4" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Allocate capacity by &lt;br&gt;- region&lt;br&gt;- type&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaMOLOjBhRuXRS3HooJq-3">
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-4" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Allocate capacity by &lt;br&gt;- region&lt;br&gt;- type&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZaMOLOjBhRuXRS3HooJq-3" vertex="1" connectable="0">
           <mxGeometry x="0.5181" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-39" value="Cluster&lt;br&gt;Registry" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="375" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZaMOLOjBhRuXRS3HooJq-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;glass=1;sketch=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZaMOLOjBhRuXRS3HooJq-6" value="DB storing&lt;br&gt;Tenant NS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;glass=1;sketch=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="500" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
