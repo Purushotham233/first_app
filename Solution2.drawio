@@ -1,30 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:33:54.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_nbbEFY2lqFOtPGSIw3F" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:59:01.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ww5OeGqgSW01u1X_Ky3p" version="14.4.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-10" value="Capacity Resource &lt;br&gt;Provider" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="235" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-17" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create/Update &lt;br&gt;tenant and with &lt;br&gt;KaaS type quota&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.0029" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-18" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Fetch the &lt;br&gt;appId quota assignments&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.125;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-11" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-3" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create/Update&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;tenant and with&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;KaaS type quota&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-2">
+          <mxGeometry x="-0.5429" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-11" value="K8s &lt;br&gt;AuthZ/Capacity&lt;br&gt;&amp;nbsp;adapter" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZaMOLOjBhRuXRS3HooJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="ZaMOLOjBhRuXRS3HooJq-6" edge="1">
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=65;entryDy=15;entryPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="l6D_arfKp6ZHlECt4NSu-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="425" />
+              <mxPoint x="470" y="490" />
+              <mxPoint x="250" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-23" value="&lt;span style=&quot;background-color: rgb(255 , 102 , 179)&quot;&gt;Marks approval&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-22">
+          <mxGeometry x="-0.0767" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.363;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-15" target="ZaMOLOjBhRuXRS3HooJq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-15" value="Tenant Registry" style="html=1;" parent="1" vertex="1">
+        <mxCell id="smM6Izyuk5AVpzeEzgrJ-15" value="Tenant Registry &lt;br&gt;via K8s apiserver on Meta K8s" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="375" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-21" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Distribute quota&lt;br&gt;&amp;nbsp;to sub-teams&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.433;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-19" target="smM6Izyuk5AVpzeEzgrJ-10" edge="1">
@@ -51,43 +65,48 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-23" target="l6D_arfKp6ZHlECt4NSu-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-11" value="&lt;span style=&quot;background-color: rgb(255 , 51 , 153)&quot;&gt;Raise PR with &lt;br&gt;Tenant Namespace requests&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-10">
+          <mxGeometry x="0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-23" value="AppId Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-30" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Get&amp;nbsp;&lt;br&gt;Tenant Namespace&lt;br&gt;&amp;nbsp;changes&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="745" y="440" />
-              <mxPoint x="700" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-36" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create k8s-ns &lt;br&gt;for new Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-35" vertex="1" connectable="0">
-          <mxGeometry x="0.15" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.933;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="795" y="450" />
-              <mxPoint x="840" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-38" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Modify quota changes &lt;br&gt;for exisiting Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-37" vertex="1" connectable="0">
-          <mxGeometry x="0.08" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-39" edge="1">
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="smM6Izyuk5AVpzeEzgrJ-42" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Discover &lt;br&gt;KaaS Cluster&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="smM6Izyuk5AVpzeEzgrJ-41" vertex="1" connectable="0">
-          <mxGeometry x="0.128" y="2" relative="1" as="geometry">
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-36" value="Discover&lt;br&gt;KaaS Cluster" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-35">
+          <mxGeometry x="0.2632" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="smM6Izyuk5AVpzeEzgrJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="280" />
+              <mxPoint x="1085" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-38" value="&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Create/Modify k8s-ns&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;as per Tenant-ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-37">
+          <mxGeometry x="0.0876" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="smM6Izyuk5AVpzeEzgrJ-28" target="l6D_arfKp6ZHlECt4NSu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-40" value="&lt;span style=&quot;background-color: rgb(255 , 51 , 153)&quot;&gt;Commits k8s ns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-39">
+          <mxGeometry x="-0.1742" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -95,16 +114,64 @@
           <mxGeometry x="720" y="375" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-32" value="K8s Workload Clusters" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="580" width="150" height="50" as="geometry" />
+          <mxGeometry x="1010" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-33" value="K8s Workload Clusters" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="590" width="150" height="50" as="geometry" />
+          <mxGeometry x="1020" y="350" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="smM6Izyuk5AVpzeEzgrJ-39" value="Cluster&lt;br&gt;Registry" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="375" width="100" height="50" as="geometry" />
+          <mxGeometry x="680" y="230" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZaMOLOjBhRuXRS3HooJq-6" value="DB storing&lt;br&gt;Tenant NS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;glass=1;sketch=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="500" width="100" height="80" as="geometry" />
+          <mxGeometry x="500" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="l6D_arfKp6ZHlECt4NSu-12" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="510" />
+              <mxPoint x="490" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-29" value="&lt;span style=&quot;background-color: rgb(255 , 51 , 153)&quot;&gt;GitOps Sync &lt;br&gt;for Tenant Requests&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-28">
+          <mxGeometry x="-0.2535" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="l6D_arfKp6ZHlECt4NSu-12" target="smM6Izyuk5AVpzeEzgrJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-34" value="&lt;span style=&quot;background-color: rgb(255 , 102 , 179)&quot;&gt;GitOps sync &lt;br&gt;for k8s namespaces&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-33">
+          <mxGeometry x="-0.0813" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-12" value="Git Repo&lt;br&gt;owned by ALM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;glass=1;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="580" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.044;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="l6D_arfKp6ZHlECt4NSu-13" target="smM6Izyuk5AVpzeEzgrJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="460" />
+              <mxPoint x="457" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-20" value="&lt;span style=&quot;background-color: rgb(255 , 102 , 179)&quot;&gt;Notified via Git Webhook&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-19">
+          <mxGeometry x="-0.1425" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="l6D_arfKp6ZHlECt4NSu-13" target="l6D_arfKp6ZHlECt4NSu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-25" value="&lt;span style=&quot;background-color: rgb(255 , 102 , 179)&quot;&gt;Merged by Repo Admin&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6D_arfKp6ZHlECt4NSu-24">
+          <mxGeometry x="-0.4083" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6D_arfKp6ZHlECt4NSu-13" value="Pull Request" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="185" y="580" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
