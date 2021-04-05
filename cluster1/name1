@@ -1,0 +1,1 @@
+{"Name":"name1","Region":"region1","Quota":{"metadata":{"creationTimestamp":null},"spec":{"hard":{"cpu":"1"}},"status":{}},"Cluster":"cluster1"}
